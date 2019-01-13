@@ -8,7 +8,7 @@ class Vowel{
                if(ch=='a' || ch=='e' || ch=='i' || ch=='o' || ch=='u' )
                     System.out.println("Vowel");
                else
-                    System.out.println("Consonent");
+                    System.out.println("Consonant");
                }
           else 
                System.out.println("Invalid");
